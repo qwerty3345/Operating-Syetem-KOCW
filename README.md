@@ -5,7 +5,7 @@
 |:---|:---|:---|
 |01|[Introduction to Operating Systems](https://github.com/qwerty3345/Operating-Syetem-KOCW/blob/main/2.%20Introduction%20to%20Operating%20Systems.md)|운영체제란?, 운영체제의 목적, 분류, 구조|
 |02|[System Structure & Program Execution 1](https://github.com/qwerty3345/Operating-Syetem-KOCW/blob/main/23.01.27_System%20Structure%20%26%20Program%20Execution%201.md)|컴퓨터 시스템 구조, I/O디바이스 소통 방식|
-||System Structure & Program Execution 2||
+||[System Structure & Program Execution 2](https://github.com/qwerty3345/Operating-Syetem-KOCW/blob/main/23.01.30_System%20Structure%20%26%20Program%20Execution%202.md)|DMA, 저장장치 계층구조, 프로그램 실행 과정, 단계|
 |03|Process 1||
 ||Process 2||
 ||Process 3||
